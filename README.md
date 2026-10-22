@@ -18,9 +18,14 @@ The reader includes the full course text across searchable reading pages:
 ## Features
 
 - Search across the whole course
+- Visual learning guides and embedded illustrations (with click-to-expand view)
 - Personal notes stored on your device
 - Section progress tracking
 - Light / dark themes and adjustable text size
+
+## Rights and copyright
+
+This work is © Bright Ameh and E³ — Encourage Excellence Early. The page embeds rights-management information (attribution and ownership records). Please do not republish, redistribute, resell or commercially reuse the course content without written authorisation, and do not remove the attribution or rights-management information.
 
 ## Use it
 
